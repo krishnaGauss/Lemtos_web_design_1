@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Menu, X, ArrowRight, ChevronsRight } from 'lucide-react';
+import { Menu, X, ArrowRight, ChevronsRight, ChevronRight } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import NeoButton from '../UI/NeoButton';
 

@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  /* Brand colors */
+  --color-lemtos-red: #aa0000;
+  --color-lemtos-amber: #ffa100;
+  --color-lemtos-black: #1a1a1a;
+  --color-lemtos-offwhite: #f8f9fa;
+
+  /* Typography */
+  --font-sans: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+  --font-display: "Space Grotesk", system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", sans-serif;
+
+  /* Shadows */
+  --shadow-neo: 4px 4px 0px 0px rgba(0, 0, 0, 1);
+  --shadow-neo-hover: 2px 2px 0px 0px rgba(0, 0, 0, 1);
+  --shadow-neo-lg: 8px 8px 0px 0px rgba(0, 0, 0, 1);
+}
